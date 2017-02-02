@@ -3,6 +3,7 @@
 ##TypeScript Configuration along with WebPack
     #References: 
         #WebPack
+            https://www.npmjs.com/package/ts-loader 
             http://www.jbrantly.com/typescript-and-webpack/
             http://www.jbrantly.com/es6-modules-with-typescript-and-webpack/
       
